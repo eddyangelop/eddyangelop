@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/eddyangelop/fa2e075ff44d6afff0a1de965151ddeb/raw/8a9342a31705e82855008836aaccdd19a33073ee/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Hello Guys I'm Edson Angelo.</h1>
+<h1 align="left">Hello guys, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Edson Angelo.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddyangelop&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer em transição de carreira.

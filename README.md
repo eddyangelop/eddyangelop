@@ -1,12 +1,12 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/eddyangelop/fa2e075ff44d6afff0a1de965151ddeb/raw/8a9342a31705e82855008836aaccdd19a33073ee/githubcard.svg"/>
-<h1 align="left">Hello guys, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Edson Angelo.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eddyangelop&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hello guys, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"> I'm Edson Angelo.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eddyangelop&color=yellow" alt="Profile views" /></p>
 
-- 🔥 Web Developer em transição de carreira.
+- 🔥 Web Developer in Carrer Transition.
 
-- 💬 Ask me about **C#, dotNET, HTML, CSS, JAVASCRIPT, mySQL**
+- 💬 Skills basic's: **C# | .NET | mySQL | HTML | CSS | JS**
 
-- 👨‍💻 More at [Eddyangelop](https://www.linkedin.com/in/edson-angelo-582004176/)
+- 👨‍💻 More at Linkedin; [Edson Angelo](https://www.linkedin.com/in/edson-angelo-582004176/)
 
 <br><br>
 
@@ -37,8 +37,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=eddyangelop&show_icons=true&theme=vision-friendly-dark" alt="eddyangelo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyangelop&layout=compact&theme=vision-friendly-dark" alt="eddyangelo's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=eddyangelop&show_icons=true&theme=vision-friendly-dark" alt="eddyangelo's stats"/>
+<img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyangelop&layout=compact&theme=vision-friendly-dark" alt="eddyangelo's most languages"/>
 </p>
 
 <br><br>
@@ -65,7 +65,7 @@
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eddyangelop/eddyangelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

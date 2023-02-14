@@ -10,7 +10,7 @@
 
 - 👨‍💻 More at Linkedin; [Edson Angelo](https://www.linkedin.com/in/edson-angelo-582004176/)
  
-<img align itens="left" height="270em" width="490"
+<img align itens="left" height="265em" width="490"
 src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
 
 <br><br>

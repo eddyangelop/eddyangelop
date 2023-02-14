@@ -1,4 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/eddyangelop/fa2e075ff44d6afff0a1de965151ddeb/raw/8a9342a31705e82855008836aaccdd19a33073ee/githubcard.svg"/>
+<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/eddyangelop/fa2e075ff44d6afff0a1de965151ddeb/raw/8a9342a31705e82855008836aaccdd19a33073ee/githubcard.svg"/>
+
+
 <h1 align="left">Hello guys, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px"> I'm Edson Angelo.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddyangelop&color=yellow" alt="Profile views" /></p>
 
@@ -7,6 +9,9 @@
 - 💬 Skills basic's: **C# | .NET | mySQL | HTML | CSS | JS**
 
 - 👨‍💻 More at Linkedin; [Edson Angelo](https://www.linkedin.com/in/edson-angelo-582004176/)
+ 
+<img align itens="left" height="250em" width="490"
+src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
 
 <br><br>
 
@@ -31,6 +36,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 <br><br>
 

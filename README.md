@@ -12,9 +12,7 @@
  
 <img align itens="left" height="265em" width="490"
 src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"/>
-
 <br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

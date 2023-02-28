@@ -39,7 +39,7 @@ src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/im
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=eddyangelop&show_icons=true&theme=vision-friendly-dark" alt="eddyangelo's stats"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api?username=eddyangelop&show_icons=true&theme=vision-friendly-dark" alt="eddyangelo's stats"/>
 <img width="365em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyangelop&layout=compact&theme=vision-friendly-dark" alt="eddyangelo's most languages"/>
 </p>
 

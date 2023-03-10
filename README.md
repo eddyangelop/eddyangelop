@@ -40,7 +40,7 @@ src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/im
 
 <p align="left">
 <img width="365em" src="https://github-readme-stats.vercel.app/api?username=eddyangelop&show_icons=true&theme=vision-friendly-dark" alt="eddyangelo's stats"/>
-<img width="326em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyangelop&layout=compact&theme=vision-friendly-dark" alt="eddyangelo's most languages"/>
+<img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyangelop&layout=compact&theme=vision-friendly-dark" alt="eddyangelo's most languages"/>
 </p>
 
 <br><br>

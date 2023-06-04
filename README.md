@@ -5,7 +5,7 @@
 
 - 🔥 Web Developer in Carrer Transition.
 
-- 💬 Skills basic's; **C# | .NET | MySQL | SQL-Server | HTML | CSS | JS** </>
+- 💬 Skills basic's; **C# | .NET | MySQL | SQL-Server | HTML | CSS | JS**
 
 - 👨‍💻 More at Linkedin; [Edson Angelo](https://www.linkedin.com/in/edson-angelo-582004176/)
  

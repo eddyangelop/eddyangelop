@@ -40,7 +40,7 @@ src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d0y
 
 <p align="left">
 <img width="365em" src="https://github-readme-stats.vercel.app/api?username=eddyangelop&show_icons=true&theme=vision-friendly-dark" alt="eddyangelo's stats"/>
-<img width="328em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyangelop&layout=compact&theme=vision-friendly-dark" alt="eddyangelo's most languages"/>
+<img width="327em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddyangelop&layout=compact&theme=vision-friendly-dark" alt="eddyangelo's most languages"/>
 </p>
 
 <br><br>

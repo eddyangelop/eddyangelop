@@ -10,7 +10,7 @@
 
 - 👨‍💻 More at Linkedin; [Edson Angelo](https://www.linkedin.com/in/edson-angelo-582004176/)
  
-<img align itens="left" height="265em" width="400"
+<img align itens="left" height="200em" width="300"
 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d0ybq69dzr3nt8slj1njj1mjfgv38cwwg0d5g0fr&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <br><br>
 ## 🛠 &nbsp;Tech Stack
